@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("NIA NIA NIA NIA NIA NIA");
             Console.WriteLine("Salut");
             Console.WriteLine("kjdfshgndkjfstyhdngbyeur");
+            Console.WriteLine("Pourquoi on fait ça ?");
             Console.ReadLine();
         }
     }
